@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:10:5-41:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\Niroshana\.android\build-cache\812945d0e3b0d99a82640e25f6d670bd31914c9f\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Niroshana\.android\build-cache\8502867c1669886805a5697e628198c980bc094a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\e48eb7bcd6762a87451eabf9d0183918897e7ea9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Niroshana\.android\build-cache\ff30c2791d5138b48bc8c8cb47bb41c2384608ee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\c8cbe2225c36dc9d84140fdb6000f0b3f55474eb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Niroshana\.android\build-cache\db226ac7b400ae732853b147c87b5b877ec3b0aa\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Niroshana\.android\build-cache\561c5d1eb9166053242fb3f8140f2dbe73bb1e83\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Niroshana\.android\build-cache\68660f478b3ec1add68c81b90c935aa5ceb9bc5f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Niroshana\.android\build-cache\b513a59daf4494877470ebb5dfa39ec0d78b9493\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Niroshana\.android\build-cache\80881314537933cfb512c2c0f51057a5abab9677\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Niroshana\.android\build-cache\aa76e64dc79fec76bc70cbbfcdd8d5c55013c22e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\ae5e9c6b1cfffe856cebe14748972c6b5fdc2aa9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Niroshana\.android\build-cache\c42cedf491b6e5ec4a699561d0776c83c0df6748\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Niroshana\.android\build-cache\cee65cc3254bdafcbe9106f4062bc1f5c0acb6d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\254c1a6bc90c6a226e8dc22ddccd479816b4f917\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.eastwind.login.WelcomeActivity
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:theme
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:18:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.eastwind.login.Login
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:27:13-34
+activity#com.example.eastwind.login.Register
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:30:9-34:47
+	android:label
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:32:13-37
+	android:parentActivityName
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:33:13-48
+	android:theme
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:31:13-37
+activity#com.example.eastwind.login.Student
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:35:9-45
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:35:19-42
+activity#com.example.eastwind.login.chooseRole
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:36:19-45
+activity#com.example.eastwind.login.Tab_main
+ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:37:9-40:68
+	android:label
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from F:\Project\Login\app\src\main\AndroidManifest.xml:38:13-37
+uses-sdk
+INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\Niroshana\.android\build-cache\812945d0e3b0d99a82640e25f6d670bd31914c9f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\Niroshana\.android\build-cache\7519df7455e7fdacc1a8abf34142e1838dd5f48f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\Niroshana\.android\build-cache\565dfa6ffdd9ca0830dbb36abb36176cb8c9ccbe\output\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Niroshana\.android\build-cache\8502867c1669886805a5697e628198c980bc094a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\e48eb7bcd6762a87451eabf9d0183918897e7ea9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Niroshana\.android\build-cache\c95f0451ad03973a448cdb616ac3146bd164cbb6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Niroshana\.android\build-cache\ff30c2791d5138b48bc8c8cb47bb41c2384608ee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\c8cbe2225c36dc9d84140fdb6000f0b3f55474eb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Niroshana\.android\build-cache\db226ac7b400ae732853b147c87b5b877ec3b0aa\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Niroshana\.android\build-cache\561c5d1eb9166053242fb3f8140f2dbe73bb1e83\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Niroshana\.android\build-cache\68660f478b3ec1add68c81b90c935aa5ceb9bc5f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Niroshana\.android\build-cache\b513a59daf4494877470ebb5dfa39ec0d78b9493\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Niroshana\.android\build-cache\80881314537933cfb512c2c0f51057a5abab9677\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Niroshana\.android\build-cache\aa76e64dc79fec76bc70cbbfcdd8d5c55013c22e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\ae5e9c6b1cfffe856cebe14748972c6b5fdc2aa9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Niroshana\.android\build-cache\c42cedf491b6e5ec4a699561d0776c83c0df6748\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Niroshana\.android\build-cache\cee65cc3254bdafcbe9106f4062bc1f5c0acb6d6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\254c1a6bc90c6a226e8dc22ddccd479816b4f917\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Login\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Niroshana\.android\build-cache\272e0747b756b03c3c7c1542e4ac7ebbcbf92c04\output\AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Niroshana\.android\build-cache\8502867c1669886805a5697e628198c980bc094a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\e48eb7bcd6762a87451eabf9d0183918897e7ea9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Niroshana\.android\build-cache\c95f0451ad03973a448cdb616ac3146bd164cbb6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Niroshana\.android\build-cache\ff30c2791d5138b48bc8c8cb47bb41c2384608ee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Niroshana\.android\build-cache\c8cbe2225c36dc9d84140fdb6000f0b3f55474eb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Niroshana\.android\build-cache\80881314537933cfb512c2c0f51057a5abab9677\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Niroshana\.android\build-cache\aa76e64dc79fec76bc70cbbfcdd8d5c55013c22e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\ae5e9c6b1cfffe856cebe14748972c6b5fdc2aa9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Niroshana\.android\build-cache\c42cedf491b6e5ec4a699561d0776c83c0df6748\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Niroshana\.android\build-cache\cee65cc3254bdafcbe9106f4062bc1f5c0acb6d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Niroshana\.android\build-cache\254c1a6bc90c6a226e8dc22ddccd479816b4f917\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Niroshana\.android\build-cache\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\Niroshana\.android\build-cache\54136f151104d46f6c3088d12fc0a8441091ed32\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Niroshana\.android\build-cache\200bfb08c782a442e831e37257639edd9a5ba98c\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\Niroshana\.android\build-cache\5984ea3701770331d2801fbda1304e284b46a239\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\Niroshana\.android\build-cache\1b8056b026ecb75cbae2743d46fff177f4ba08a9\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Niroshana\.android\build-cache\b513a59daf4494877470ebb5dfa39ec0d78b9493\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Niroshana\.android\build-cache\b513a59daf4494877470ebb5dfa39ec0d78b9493\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Niroshana\.android\build-cache\b513a59daf4494877470ebb5dfa39ec0d78b9493\output\AndroidManifest.xml:20:20-65

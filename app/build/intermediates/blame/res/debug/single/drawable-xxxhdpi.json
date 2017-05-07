@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\btn_log.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_log.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_login.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\soil.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\soil.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bg2.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\bg2.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\point.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\point.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\temp.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\temp.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\graph.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\graph.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account_box.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account_box.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\top.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\top.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\txt2.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\txt2.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_logout.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\status.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\status.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\gp.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\gp.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\humudity.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\humudity.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\full.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\full.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\light.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\light.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\txt1.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\txt1.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bg.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bottom.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\bottom.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account_box_outline.png",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account_box_outline.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">310995756125-aqj690t72n8i638loe7oau3lqroum5b8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://greenplug-5e3db.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">310995756125</string>
+    <string name="google_api_key" translatable="false">AIzaSyDkPyBQg7VG0c0g7dKViIOfTqXt-XuJCI8</string>
+    <string name="google_app_id" translatable="false">1:310995756125:android:0a99633d472a8a38</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkPyBQg7VG0c0g7dKViIOfTqXt-XuJCI8</string>
+    <string name="google_storage_bucket" translatable="false">greenplug-5e3db.appspot.com</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.eastwind.login.Login"
+    tools:showIn="@layout/activity_first">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300sp"
+        android:layout_height="300sp"
+        android:layout_marginTop="5sp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/gp" />
+
+
+    <EditText
+        android:id="@+id/etemail"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="375sp"
+        android:layout_height="45sp"
+        android:layout_alignStart="@+id/etpwd"
+        android:layout_centerVertical="true"
+        android:background="@drawable/txt1"
+        android:drawableLeft="@drawable/ic_account"
+        android:drawablePadding="@dimen/fab_margin"
+        android:fontFamily="monospace"
+        android:hint="Email"
+        android:inputType="textAutoComplete|textEmailAddress"
+        android:paddingLeft="13dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etpwd"
+        android:layout_width="375sp"
+        android:layout_height="45sp"
+        android:layout_below="@+id/etemail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:background="@drawable/txt2"
+        android:cursorVisible="true"
+        android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="@dimen/fab_margin"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="13dp"
+        android:textAlignment="2"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/log"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="170sp"
+        android:layout_height="70sp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/btn_log"
+        android:layout_above="@+id/reg"
+        android:layout_marginBottom="4sp"
+        android:text="@string/btn_login"
+        android:textColor="@color/fontgreen"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/reg"
+        android:layout_width="wrap_content"
+        android:layout_height="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"
+        android:text="@string/register"
+        android:textSize="20sp" />
+
+
+
+</RelativeLayout>

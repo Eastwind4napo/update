@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\welcome_animation.xml",
+        "source": "F:\\Project\\Login\\app\\src\\main\\res\\anim\\welcome_animation.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\8502867c1669886805a5697e628198c980bc094a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\Project\\Login\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Niroshana\\.android\\build-cache\\bf5d9db851a7f24f370a17cf7c6fa1a6563860c1\\output\\res\\anim\\design_snackbar_out.xml"
+    }
+]
